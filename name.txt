@@ -1,0 +1,1 @@
+This is some text in name.txt file. And it is amazing.
